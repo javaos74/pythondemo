@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
+# -*- coding: euc-kr -*-
 
-with open('Result.txt', 'w+', encoding='utf-8') as f:
-    f.write( 'ì•ˆë…•í•˜ì„¸ìš”')
-print( "ì•ˆë…•í•˜ì„¸ìš”.")
+with open('C:\\Temp\\HelloWorld.txt', 'w+', encoding='utf-8') as f:
+    f.write( '¾È³çÇÏ¼¼¿ä')
+print( "¾È³çÇÏ¼¼¿ä.")
